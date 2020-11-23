@@ -1,0 +1,60 @@
+
+        Colorable <<interface>>
+/////////////////////////////////////////
+/ + howToColor(): void                  /
+/////////////////////////////////////////
+  
+        GeometricObject Class
+/////////////////////////////////////////
+/ - color: String                       /    
+/ - filled: boolean                     /    
+/ - area: double                        /
+/ - dateCreated: Date                   /   
+/////////////////////////////////////////
+/ + SETTERS                             /    
+/ + GETTERS                             /
+/ + GeometricObject(String, boolean)    /
+/ + calculateArea(): double             /
+/ + calculatePerimeter(): double        /
+/ + toString(): String                  /
+/ + compareTo(Object): int              /
+/ + max(Object, Object): GeometricObject/                      
+/////////////////////////////////////////
+
+
+             Circle Class
+/////////////////////////////////////////
+/ - radius: double                      /
+/////////////////////////////////////////
+/ + SETTERS                             /
+/ + GETTERS                             /
+/ + Circle(String, boolean, double)     /
+/ + calculateArea(): double             /
+/ + calculatePerimeter(): double        /
+/////////////////////////////////////////
+
+             Rectangle Class
+/////////////////////////////////////////
+/ - width: double                       /
+/ - length: double                       /
+/////////////////////////////////////////
+/ + SETTERS                             /
+/ + GETTERS                             /
+/ + Rectangle(String, boolean, double,  /
+/   length)                             /
+/ + calculateArea(): double             /
+/ + calculatePerimeter(): double        /
+/////////////////////////////////////////
+
+
+             Square Class
+/////////////////////////////////////////
+/ - side: double                        /
+/////////////////////////////////////////
+/ + SETTERS                             /
+/ + GETTERS                             /
+/ + Sqaure(String, boolean, double)     /
+/ + calculateArea(): double             /
+/ + calculatePerimeter(): double        /
+/ + howToColor(): void                  /
+/////////////////////////////////////////

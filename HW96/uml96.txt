@@ -1,0 +1,15 @@
+
+             Stopwatch Class
+/////////////////////////////////////////
+/ - startTime: long                     /
+/ - endTime: long                       /
+/////////////////////////////////////////
+/ + getStartTime(): long                /
+/ + getEndTime(): long                  /                                   
+/ + setStartTime(long): void            /
+/ + setEndTime(long): void              / 
+/ + Stopwatch()                         /  
+/ + start(): void                       /
+/ + end(): void                         /
+/ + elapsedTime(): void                 /
+/////////////////////////////////////////

@@ -1,0 +1,66 @@
+
+Ye Olde Keychain Shop
+
+1. Add Keychains to Order
+
+2. Remove Keychains from Order
+
+3. View Current Order
+
+4. Checkout
+
+
+Please enter your choice: 1
+You have 0 keychains. How many to add?
+3
+You now have 3 keychains.
+
+1. Add Keychains to Order
+
+2. Remove Keychains from Order
+
+3. View Current Order
+
+4. Checkout
+
+
+Please enter your choice: 2
+You have 3 keychains. How many to remove?
+1
+You now have 2 keychains.
+
+1. Add Keychains to Order
+
+2. Remove Keychains from Order
+
+3. View Current Order
+
+4. Checkout
+
+
+Please enter your choice: 3
+You have 2 keychains.
+Keychains cost $10 each.
+Total cost is $20.
+
+1. Add Keychains to Order
+
+2. Remove Keychains from Order
+
+3. View Current Order
+
+4. Checkout
+
+
+Please enter your choice: 4
+
+        CHECKOUT
+
+What is your name?
+Kate
+You have 2 keychains.
+Keychains cost $10 each.
+Total cost is $20.
+
+
+Thanks for your order, Kate.

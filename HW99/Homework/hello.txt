@@ -1,0 +1,15 @@
+Hello World
+
+This is the result of adding 3 and 2:
+
+5
+
+This is the result of adding 4.2 and 12.2:
+
+16.4
+
+Integer result is less than float result
+
+Original Float: 16.4 -> Type casted into int:  16
+
+Mod 2 for 5: 1

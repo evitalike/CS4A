@@ -1,0 +1,15 @@
+             RegularPolygon Class
+/////////////////////////////////////////
+/ - n: double                           /
+/ - side: double                        /
+/ - x: double                           /
+/ - y: double                           /
+/////////////////////////////////////////
+/ + SETTERS                             /
+/ + GETTERS                             /
+/ + RegularPolygon(int, double)         /
+/ + RegularPolygon(int, double, double  /
+/   double)                             /
+/ + getPerimeter(): double              /
+/ + getArea(): double                   /
+/////////////////////////////////////////

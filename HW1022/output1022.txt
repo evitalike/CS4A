@@ -1,0 +1,8 @@
+Test 1: TesT
+Character At Index 1: e
+Length: 4
+Substring (1 - 3): es
+To Lowercase: test
+Test 2: TEsT
+Test 1 is equal to Test 2: false
+Value of 50: 50

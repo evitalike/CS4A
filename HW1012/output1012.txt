@@ -1,0 +1,6 @@
+Area of Triangle 1: 0.025
+Perimeter of Triangle 1: 5.8312
+
+Does the triangle contain (3,3)? : No
+Does the the triangle contain the points (2.9, 2), (4, 1), (1, 3.4)? : No
+Does the triangle overlap the points (2, 5.5), (4, -3), (2, 6.5)? : Yes

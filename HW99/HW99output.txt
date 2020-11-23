@@ -1,0 +1,13 @@
+// HW99
+
+Perimeter of polygon 1: 3
+
+Are of polygon 1: 0.87
+
+Perimeter of polygon 2: 24
+
+Are of polygon 2: 41.57
+
+Perimeter of polygon 3: 40
+
+Are of polygon 3: 123.11

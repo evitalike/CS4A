@@ -1,0 +1,40 @@
+
+             Account Class
+/////////////////////////////////////////
+/ - name: String                        /    
+/ - id: int                             /    
+/ - balance: double                     /
+/ - annualInterestRate: double          /
+/ - dateCreated: Date                   /    
+/ - transactions: ArrayList<Transaction>/
+/////////////////////////////////////////
+/ + SETTERS (name, id, balance,         /
+/   annualInterestRate, dateCreated,    /
+/   transactions                        /
+/ + GETTERS (name, id, balance,         /
+/   annualInterestRate, dateCreated,    /    
+/   transactions                        /
+/ + Account(String, int, double)        /
+/ + withdraw(double): void              /
+/ + deposit(double): void               /
+/ + accountInfo(): void                 /
+/////////////////////////////////////////
+
+
+             Transaction Class
+/////////////////////////////////////////
+/ - date: Date                          /
+/ - type: char                          /
+/ - amount: double                      /
+/ - balance: double                     /
+/ - description: String                 /
+/////////////////////////////////////////
+/ + SETTERS (type, amount, balance      /
+/   description                         /
+/ + GETTERS (name, id, balance,         /
+/   annualInterestRate, dateCreated,    /
+/   transactions                        /
+/ + Transaction(char,double,double,     /
+/   String)                             /
+/ + toString(): String                  /
+/////////////////////////////////////////

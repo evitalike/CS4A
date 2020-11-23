@@ -1,0 +1,4 @@
+java Program John in
+The man is  .
+  is 42 years old.
+  has three kids.

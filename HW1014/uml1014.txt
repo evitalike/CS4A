@@ -1,0 +1,13 @@
+             MyDate Class
+/////////////////////////////////////////
+/ - year: int                           /
+/ - month: int                          /
+/ - day: int                            /
+/////////////////////////////////////////
+/ + SETTERS                             /
+/ + GETTERS                             /
+/ + MyDate()                            /
+/ + myDate(long)                        /
+/ + myDate(int, int, int)               /
+/ + setDate(long): void                 /
+/////////////////////////////////////////

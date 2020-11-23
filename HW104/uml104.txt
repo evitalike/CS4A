@@ -1,0 +1,12 @@
+
+             MyPoint Class
+/////////////////////////////////////////
+/ - x: double                           /
+/ - y: double                           /
+/////////////////////////////////////////
+/ + SETTERS (x,y)                       /
+/ + GETTERS (x,y)                       /
+/ + MyPoint(double, double)             /
+/ + distance(double, double): double    /
+/ + distance(myPoint): double           /
+/////////////////////////////////////////

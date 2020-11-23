@@ -1,0 +1,38 @@
+
+        GeometricObject Class
+/////////////////////////////////////////
+/ - color: String                       /    
+/ - filled: boolean                     /    
+/ - area: double                        /
+/ - dateCreated: Date                   /   
+/////////////////////////////////////////
+/ + SETTERS                             /    
+/ + GETTERS                             /
+/ + calculateArea(): double             /
+/ + calculatePerimeter(): double        /
+/ + toString(): String                  /
+/ + compareTo(Object): int              /
+/ + max(Object, Object): GeometricObject/                      
+/////////////////////////////////////////
+
+
+             Circle Class
+/////////////////////////////////////////
+/ - radius: double                      /
+/////////////////////////////////////////
+/ + SETTERS                             /
+/ + GETTERS                             /
+/ + calculateArea(): double             /
+/ + calculatePerimeter(): double        /
+/////////////////////////////////////////
+
+             Rectangle Class
+/////////////////////////////////////////
+/ - width: double                       /
+/ - length: double                       /
+/////////////////////////////////////////
+/ + SETTERS                             /
+/ + GETTERS                             /
+/ + calculateArea(): double             /
+/ + calculatePerimeter(): double        /
+/////////////////////////////////////////

@@ -1,0 +1,3 @@
+// HW 96
+
+The elapsed time for the selection sort is: 5 miliseconds.

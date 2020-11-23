@@ -1,0 +1,33 @@
+        Triangle2D Class
+/////////////////////////////////////////
+/ - p1: myPoint                         / 
+/ - p2: myPoint                         / 
+/ - p3: myPoint                         / 
+/////////////////////////////////////////
+/ + SETTERS                             /    
+/ + GETTERS                             /
+/ + Triangle2D(double,double,double,    /
+/   double,double,double)               /
+/ + Triangle2D(myPoint, myPoint,        /
+/   myPoint)                            /
+/ + getDistance(MyPoint, MyPoint):      /
+/   double                              /
+/ + getArea(): double                   /
+/ + getPerimeter(): double              /
+/ + containsPoint(MyPoint): boolean     /
+/ + contains(Triangle2D): boolean       /
+/ + overlaps(Triangle2D): boolean       /                    
+/////////////////////////////////////////
+
+
+             MyPoint Class
+/////////////////////////////////////////
+/ - x: double                           /
+/ - y: double                           /
+/////////////////////////////////////////
+/ + SETTERS                             /
+/ + GETTERS                             /
+/ + MyPoint()                           /
+/ + MyPoint(double, double)             /
+/////////////////////////////////////////
+

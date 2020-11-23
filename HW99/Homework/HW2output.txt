@@ -1,0 +1,39 @@
+3.4
+
+Month: February --> From random value 2
+
+4.21
+
+Please enter in social security #: 123-41-1234
+123-41-1234 is a valid social security number
+Please enter in social security #: 12-123-1234
+12-123-1234 is not a valid social security number
+Please enter in social security #: 12g-123-1234
+12g-123-1234 is a not valid social security number
+
+5.31
+
+Enter in the intial deposit amount: 10000
+Please enter in annual percentage yield: 5.75
+Enter maturity period (number of months): 18
+Month    CD Value
+0        10047.92
+1        10096.06
+2        10144.44
+3        10193.05
+4        10241.89
+5        10290.97
+6        10340.28
+7        10389.82
+8        10439.61
+9        10489.63
+10       10539.89
+11       10590.40
+12       10641.14
+13       10692.13
+14       10743.37
+15       10794.84
+16       10846.57
+17       10898.54
+
+

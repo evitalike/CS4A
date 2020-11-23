@@ -1,0 +1,79 @@
+ ======== BANK ACCOUNT ========
+Please enter in first name: George
+Please enter in interest rate: 1.5
+Please enter in balance: 1000
+
+Deposit or Withdrawal? (D\W)D
+Please enter in the amount you would like to deposit: 30
+User deposits $30.0
+The current balance is 1030.0
+
+Deposit or Withdrawal? (D\W)D
+Please enter in the amount you would like to deposit: 40
+User deposits $40.0
+The current balance is 1070.0
+
+Deposit or Withdrawal? (D\W)d
+Please enter in the amount you would like to deposit: 50
+User deposits $50.0
+The current balance is 1120.0
+
+Deposit or Withdrawal? (D\W)W
+Please enter in the amount you would like to withdrawal: 5
+User withdraws $5.0
+The current balance is 1115.0
+
+Deposit or Withdrawal? (D\W)W
+Please enter in the amount you would like to withdrawal: 4
+User withdraws $4.0
+The current balance is 1111.0
+
+Deposit or Withdrawal? (D\W)W
+Please enter in the amount you would like to withdrawal: 2
+User withdraws $2.0
+The current balance is 1109.0
+
+Deposit or Withdrawal? (D\W)X
+---------------------
+Account Information
+Name: George
+Date Created: Tue Jun 30 18:23:15 PDT 2020
+Interest Rate: 1.5
+Balance: 1109.0
+
+Transaction History:
+Type of transaction: D
+Amount: 30.0
+Balance: 1030.0
+Description: User deposits $30.0
+Date: Tue Jun 30 18:23:21 PDT 2020
+
+Type of transaction: D
+Amount: 40.0
+Balance: 1070.0
+Description: User deposits $40.0
+Date: Tue Jun 30 18:23:27 PDT 2020
+
+Type of transaction: D
+Amount: 50.0
+Balance: 1120.0
+Description: User deposits $50.0
+Date: Tue Jun 30 18:23:36 PDT 2020
+
+Type of transaction: W
+Amount: 5.0
+Balance: 1115.0
+Description: User withdraws $5.0
+Date: Tue Jun 30 18:23:44 PDT 2020
+
+Type of transaction: W
+Amount: 4.0
+Balance: 1111.0
+Description: User withdraws $4.0
+Date: Tue Jun 30 18:23:56 PDT 2020
+
+Type of transaction: W
+Amount: 2.0
+Balance: 1109.0
+Description: User withdraws $2.0
+Date: Tue Jun 30 18:24:05 PDT 2020

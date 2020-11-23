@@ -1,0 +1,22 @@
+// PROBLEM 6.30
+
+You rolled 4 + 1 = 5
+Point is 5
+You rolled 5 + 2 = 7
+You won.
+
+You rolled 1 + 5 = 6
+Point is 6
+You rolled 6 + 6 = 12
+You lost.
+
+You rolled 3 + 1 = 4
+Point is 4
+You rolled 2 + 6 = 8
+Point is 8
+You rolled 4 + 6 = 10
+Point is 10
+You rolled 5 + 4 = 9
+Point is 9
+You rolled 6 + 3 = 9
+You won.
